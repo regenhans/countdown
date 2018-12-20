@@ -23,4 +23,8 @@ This is an countdown component written using React JS. It takes a date with and 
 
 * `npm run dev`
 
+#### Build:
+
+* I you want to build it  you can use : `npm run build` and then `npm run start` to run the build.
+
 The example should run at [http://localhost:3000/](http://localhost:3000/)

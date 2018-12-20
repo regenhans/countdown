@@ -46,7 +46,7 @@ export default class Index extends React.Component {
           <input
             required
             type="datetime-local"
-            min={tomorrow.toISOString().split('.')[0]}
+            min={countDownDate.toISOString().split('.')[0]}
             ref={this.datePicker}
           />
           <br />
