@@ -1,3 +1,6 @@
+
+![Screenshot](https://github.com/regenhans/countdown/blob/master/screenshot-png.js "Screenshot")
+
 # Timer Component
 
 This is an countdown component written using React JS. It takes a date with and calculates the difference between the date and time provided and now.
