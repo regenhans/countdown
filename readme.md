@@ -1,5 +1,5 @@
 
-![Screenshot](https://github.com/regenhans/countdown/blob/master/screenshot-png.js "Screenshot")
+![Screenshot](https://github.com/regenhans/countdown/blob/master/screenshot.png "Screenshot")
 
 # Timer Component
 
